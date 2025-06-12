@@ -17,7 +17,7 @@
  <img aling="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-### atualmente sou estudante de DEVS e procuro me aprofundar mais na area, caso tenha interesse, confere meu perfil ai!💜
+#### atualmente sou estudante de DEVS e procuro me aprofundar mais na area, caso tenha interesse, confere meu perfil ai!💜
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisdesenvolvedor/luisdesenvolvedor/output/github-contribution-grid-snake-dark.svg">
